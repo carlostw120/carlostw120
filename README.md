@@ -17,8 +17,7 @@
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="[https://twitter.com/carlostw120](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fcarlostw120
-)" target="_blank"><img src="[https://twitter.com/carlostw120/photo](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fcarlostw120%2Fphoto
+  <a href="https://twitter.com/carlostw120" target="_blank"><img src="[https://twitter.com/carlostw120/photo](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fcarlostw120%2Fphoto
 )https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fcarlostw120%2Fphoto
 " target="_blank"></a>
 </div>
