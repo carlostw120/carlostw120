@@ -17,6 +17,5 @@
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="https://twitter.com/carlostw120" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fhome
-" target="_blank"></a>
+   
 </div>
