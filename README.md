@@ -14,8 +14,6 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue na rede abaixo!
- 
 <div> 
    
 </div>
